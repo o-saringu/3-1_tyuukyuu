@@ -19,13 +19,13 @@ function buttonClick(){
 	if (three.value == "rect(120,30,200,60);"){
 		text3.innerHTML = "正解";
 	}else{
-		text3.innerHTML = "不正解　解答：rect(120,30,200,60);";
+		text3.innerHTML = "不正解　解答：rect(120, 30, 200, 60);";
 	}
 
 	if (four.value == "ellipse(100,70,120,120);"){
 		text4.innerHTML = "正解";
 	}else{
-		text4.innerHTML = "不正解　解答：ellipse(100,70,120,120);";
+		text4.innerHTML = "不正解　解答：ellipse(100, 70, 120, 120);";
 	}
 
 	
